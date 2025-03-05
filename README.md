@@ -54,7 +54,7 @@
 
 ###
 
-<img align="right" height="212" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" margin-right="100" height="200" src="https://media1.tenor.com/m/wBumfyondqsAAAAd/anime-girl-waves-anime-girl.gif"  />
 
 ###
 
