@@ -32,6 +32,8 @@
   <img src="https://skillicons.dev/icons?i=materialui" height="30" alt="materialui logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postman" height="30" alt="postman logo"  />
+  <img src="https://skillicons.dev/icons?i=dotnet" height="30" alt=".net logo"  />
+  
 </div>
 
 ###
